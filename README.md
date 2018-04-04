@@ -1,5 +1,9 @@
-etherShield for Arduino
+eGizmo Ethernet Shield for Arduino Duemilanove ATmega328
+========================================================
 
+Additional fix:
+* Updated ```enc28j60.c``` for Arduino 1.0
+* Fixed include directive in etherShield.cpp
 
 Working in Arduino 1.6.7.
 
